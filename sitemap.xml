@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:4000/hane-server-blog/2022/09/cl81g4qn50000hkuh97s01qkp/</loc>
+    <loc>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</loc>
     
     <lastmod>2022-09-06</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>http://localhost:4000/hane-server-blog</loc>
+    <loc>https://haneserver.github.io/hane-server-blog</loc>
     <lastmod>2022-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
