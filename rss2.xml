@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HANE Server Blog</title>
+    <link>https://haneserver.github.io/hane-server-blog/</link>
+    
+    <image>
+      <url>https://haneserver.github.io/hane-server-blog/icon.png</url>
+      <title>HANE Server Blog</title>
+      <link>https://haneserver.github.io/hane-server-blog/</link>
+    </image>
+    
+    <atom:link href="https://haneserver.github.io/hane-server-blog/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>test</description>
+    <pubDate>Sun, 27 Nov 2022 07:07:07 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hane-server</title>
+      <link>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/</link>
+      <guid>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/</guid>
+      <pubDate>Sun, 27 Nov 2022 07:03:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Test Post&lt;/p&gt;
+&lt;h1 id=&quot;こんにちは&quot;&gt;&lt;a href=&quot;#こんにちは&quot; class=&quot;headerlink&quot; title=&quot;こんにちは&quot;&gt;&lt;/a&gt;こんにちは&lt;/h1&gt;&lt;p&gt;Hane Server&lt;/p&gt;
+&lt;h2 id=&quot;Tag&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</link>
+      <guid>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</guid>
+      <pubDate>Wed, 14 Sep 2022 09:50:24 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

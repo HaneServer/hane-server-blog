@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HANE Server Blog</title>
+  <icon>https://haneserver.github.io/hane-server-blog/icon.png</icon>
+  <subtitle>はね鯖</subtitle>
+  <link href="https://haneserver.github.io/hane-server-blog/atom.xml" rel="self"/>
+  
+  <link href="https://haneserver.github.io/hane-server-blog/"/>
+  <updated>2022-11-27T07:07:07.258Z</updated>
+  <id>https://haneserver.github.io/hane-server-blog/</id>
+  
+  <author>
+    <name>tanetakumi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hane-server</title>
+    <link href="https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/"/>
+    <id>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/</id>
+    <published>2022-11-27T07:03:15.000Z</published>
+    <updated>2022-11-27T07:07:07.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Test Post&lt;/p&gt;
+&lt;h1 id=&quot;こんにちは&quot;&gt;&lt;a href=&quot;#こんにちは&quot; class=&quot;headerlink&quot; title=&quot;こんにちは&quot;&gt;&lt;/a&gt;こんにちは&lt;/h1&gt;&lt;p&gt;Hane Server&lt;/p&gt;
+&lt;h2 id=&quot;Tag&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/"/>
+    <id>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</id>
+    <published>2022-09-14T09:50:24.607Z</published>
+    <updated>2022-09-06T12:19:43.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
